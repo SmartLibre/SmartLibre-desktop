@@ -1,12 +1,10 @@
 <div align="center">
-  <img src="assets/logo.png" alt="SmartLibre logo" width="128">
   <h1>SmartLibre</h1>
   <p><strong>SmartLibre — LibreOffice with AI built in — Windows, Linux and macOS</strong></p>
   <a href="https://img.shields.io/badge/SmartLibre-AI%20office-2f9e44"><img src="https://img.shields.io/badge/SmartLibre-AI%20office-2f9e44" alt="SmartLibre"></a>
   <img src="https://img.shields.io/github/v/tag/YOUR_USERNAME/SmartLibre.svg?label=latest" alt="Latest version">
   <a href="https://www.mozilla.org/en-US/MPL/2.0/"><img src="https://img.shields.io/badge/license-MPL_2.0-brightgreen" alt="License: MPL-2.0"></a>
   <a href="../../discussions"><img src="https://img.shields.io/badge/community-discussions-blueviolet" alt="Community discussions"></a>
-  <p><img src="assets/banner.png" alt="SmartLibre — AI-powered office suite" width="100%"></p>
 </div>
 
 ---
@@ -22,8 +20,8 @@ SmartLibre is a free, open-source and cross-platform **office suite** built on t
 SmartLibre works with **any AI provider**: connect a cloud API (any OpenAI-compatible endpoint — OpenAI, OpenRouter, Azure, or your own hosted service) or run a **fully local model** via [Ollama](https://ollama.com) or LM Studio. When a local model is selected, your documents never leave your machine.
 
 <div align="center">
-  <img src="https://github.com/SmartLibre/SmartLibre-desktop/blob/main/assets/screenshot-writer-ai.png" alt="SmartLibre Writer with the built-in AI assistant panel" width="100%">
-  <p><sub>SmartLibre Writer with the built-in AI assistant — rewriting a selected paragraph in place, with a fully local Ollama model.</sub></p>
+  <img src="https://raw.githubusercontent.com/SmartLibre/SmartLibre-desktop/main/assets/smartlibre-writer-demo.gif" alt="SmartLibre Writer with the built-in AI assistant panel" width="100%">
+  <p><sub>SmartLibre Writer interface demo — the built-in AI assistant rewriting a selected paragraph in place.</sub></p>
 </div>
 
 ### Why your office suite needs AI
